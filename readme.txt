@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 TEST
 $ Creating a new branch is quick and simple add merge.
-add /usr/bin/env
-add coding: utf-8
+add /usr/bin/envv
